@@ -1,0 +1,17 @@
+ 
+ // Possible reading to compliment this video
+
+ http://php.net/manual/en/function.str-replace.php
+ https://codex.wordpress.org/Function_Reference/add_filter
+
+ add_filter() is located in wp-includes/plugin.php. (read the notes above function)
+
+ http://codex.wordpress.org/Template_Tags
+ http://codex.wordpress.org/Function_Reference/the_content
+ https://codex.wordpress.org/Settings_API
+ https://codex.wordpress.org/Function_Reference/add_action
+ https://codex.wordpress.org/Function_Reference/add_settings_section
+ https://codex.wordpress.org/Function_Reference/add_settings_field
+ https://codex.wordpress.org/Function_Reference/register_setting
+ https://codex.wordpress.org/Function_Reference/get_option
+ https://codex.wordpress.org/Function_Reference/checked
